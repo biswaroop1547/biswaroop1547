@@ -1,5 +1,5 @@
 
-**Hey there!!** I am Biswaroop :grin:
+**Hey there!!** I am Biswaroop :wave:
 ===
 
 
@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 I am a 19 year old teen whom you will probably find with his laptop, sitting somewhere and working on something. Being an INTP yeah I like to spend most of my time like that.
 
 Currently a Sophomore in Computer Science & Engineering at KIIT Bhubaneswar, India. I am a member of Machine learning team at Developer Students Club KIIT.
+
+
+![yeah that's me :p](./meme.png)
 
 <!--I started exploring the world of CS when I was 14 years old, never found any other topic before which can satiate my curiousity in this way and the way it just keeps evolving at a rapid pace has always keep me hooked to it. Started out with Python as my first language and it still remains my favourite language which I use for writing scripts to automate a task or to scrape something from web or to build sophisticated models or for literally anything I can think of.
 Linux is my favourite OS and use it for most of my tasks, my machine is running on customized Manjaro i3 setup. And yes yes I do use windows too :relieved: (rarely). -->
