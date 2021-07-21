@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ## 📫 ~ [![Twitter Badge](https://img.shields.io/badge/-@biswaroop08-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/biswaroop08)](https://twitter.com/biswaroop08)  [![Linkedin Badge](https://img.shields.io/badge/-@Biswaroop_Bhattacharjee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/biswaroop08/)](https://www.linkedin.com/in/biswaroop08/)  [![Medium Badge](https://img.shields.io/badge/-@biswaroop08-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@biswaroop08/)](https://medium.com/biswaroop08/)  [![Gmail Badge](https://img.shields.io/badge/-biswaroop08@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:biswaroop08@gmail.com)](mailto:biswaroop08@gmail.com)
 
 ## About me? :monocle_face:
-I am a 19 year old teen whom you will probably find with his laptop, sitting somewhere and working on something. Being an INTP yeah I like to spend most of my time like that.
+I am a 20 year old teen whom you will probably find with his laptop, sitting somewhere and working on something. Being an INTP yeah I like to spend most of my time like that.
 
 Currently a Sophomore in Computer Science & Engineering at KIIT Bhubaneswar, India. I am a member of Machine learning team at Developer Students Club KIIT.
 
