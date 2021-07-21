@@ -34,7 +34,7 @@ Linux is my favourite OS and use it for most of my tasks, my machine is running 
 ***
 ***
 
-### Interests ? :thinking:
+<!-- ### Interests ? :thinking:
 I am most interested in unison between Artificial Intelligence and Humans. Okay maybe it will take time to achieve that fully.
 Well I work mostly on the Deep learning and Machine Learning domain and any kind of analytics. I love to read research papers and maybe try them sometimes which helps me to stay updated with the current research. So yeah spend most of my social media time in Twitter and Reddit. I've done few projects in Computer vision and NLP. Ah and I am also addicted to algorithms.
 
@@ -45,7 +45,7 @@ Well I work mostly on the Deep learning and Machine Learning domain and any kind
 - Working on a Computer Vision project for my current Internship at Sapio Analytics.
 - Learning Pytorch as I previously used to work mostly with Tensorflow, pandas, sklearn, etc.
 - Spending time learning Data structures and Algoritms ( using C++ mostly ).
-
+ -->
 ***
 
 *Would love to talk or have a chat on **any** interesting tech-related topic you can think of!* :grin:
