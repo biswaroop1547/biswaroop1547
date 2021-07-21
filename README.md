@@ -31,8 +31,8 @@ Currently a Sophomore in Computer Science & Engineering at KIIT Bhubaneswar, Ind
 <!--I started exploring the world of CS when I was 14 years old, never found any other topic before which can satiate my curiousity in this way and the way it just keeps evolving at a rapid pace has always keep me hooked to it. Started out with Python as my first language and it still remains my favourite language which I use for writing scripts to automate a task or to scrape something from web or to build sophisticated models or for literally anything I can think of.
 Linux is my favourite OS and use it for most of my tasks, my machine is running on customized Manjaro i3 setup. And yes yes I do use windows too :relieved: (rarely). -->
 
-***
-***
+<!-- ***
+*** -->
 
 <!-- ### Interests ? :thinking:
 I am most interested in unison between Artificial Intelligence and Humans. Okay maybe it will take time to achieve that fully.
@@ -46,6 +46,6 @@ Well I work mostly on the Deep learning and Machine Learning domain and any kind
 - Learning Pytorch as I previously used to work mostly with Tensorflow, pandas, sklearn, etc.
 - Spending time learning Data structures and Algoritms ( using C++ mostly ).
  -->
-***
+<!-- *** -->
 
 *Would love to talk or have a chat on **any** interesting tech-related topic you can think of!* :grin:
